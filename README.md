@@ -58,6 +58,8 @@
 - 다양한 센서를 통합하여 환경 모니터링이 가능하도록 구현
 - Raspberry Pi를 활용한 IoT 환경 감시 시스템 구축
 
+![Image](https://github.com/user-attachments/assets/c54fcdb9-9dd0-4982-90f4-8e4a727bc2ea)
+
 
 ## 향후 발전 방향
 
