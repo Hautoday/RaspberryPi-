@@ -58,7 +58,7 @@
 - 다양한 센서를 통합하여 환경 모니터링이 가능하도록 구현
 - Raspberry Pi를 활용한 IoT 환경 감시 시스템 구축
 
-![Image](https://github.com/user-attachments/assets/c54fcdb9-9dd0-4982-90f4-8e4a727bc2ea){: width="100" }
+![Image](https://github.com/user-attachments/assets/c54fcdb9-9dd0-4982-90f4-8e4a727bc2ea){: width="50%" }
 
 
 ## 향후 발전 방향
@@ -72,7 +72,7 @@
 본 프로젝트를 통해 IoT 환경 모니터링 시스템의 구축 경험을 쌓았으며, Raspberry Pi를 활용한 센서 데이터 수집 및 분석 기술을 향상시킬 수 있었습니다.
 
 ---
-![Image](https://github.com/user-attachments/assets/237e4820-4baa-4bc9-ba73-7df5895b6b1a){: width="100" }
+![Image](https://github.com/user-attachments/assets/237e4820-4baa-4bc9-ba73-7df5895b6b1a){: width="50%" }
 
 
 - 지도교수 : 고재철 교수님
