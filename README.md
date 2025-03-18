@@ -59,6 +59,7 @@
 - Raspberry Pi를 활용한 IoT 환경 감시 시스템 구축
 
 
+![Image](https://github.com/user-attachments/assets/cddc25dd-5a15-414b-9d02-1006b3293a04)
 
 
 ## 향후 발전 방향
@@ -73,6 +74,7 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/75a492db-deb3-4255-b750-1730d8452b42)
 
 - 지도교수 : 고재철 교수님
 
